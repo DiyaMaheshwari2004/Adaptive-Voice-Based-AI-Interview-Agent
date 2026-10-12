@@ -19,6 +19,13 @@ An AI-powered interview application that analyzes a candidate's CV and a job des
 - SQLite interview result storage
 - Interview performance report and charts
 - Streamlit user interface
+  
+## Screenshots
+Main Interface
+<img width="1275" height="1650" alt="main-interface" src="https://github.com/user-attachments/assets/3e596c9f-179d-413f-bcd1-de13058abc65" />
+Interview Performance Report
+<img width="1275" height="1650" alt="interview-report" src="https://github.com/user-attachments/assets/7bd25c6c-0d92-4e24-9e73-040512ec7de7" />
+
 
 ## Technology Stack
 
