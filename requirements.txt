@@ -1,0 +1,14 @@
+
+streamlit
+pandas
+numpy
+scikit-learn
+PyMuPDF
+python-docx
+ollama
+faster-whisper
+streamlit-mic-recorder
+pyttsx3
+sentence-transformers
+chromadb
+langgraph

@@ -1,0 +1,40 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Local databases and interview data
+data/*
+!data/.gitkeep
+*.db
+*.sqlite
+*.sqlite3
+*.wav
+*.mp3
+
+# RAG vector database
+data/chroma_db/
+
+# Personal documents
+*.pdf
+*.docx
+
+# Logs
+*.log
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
